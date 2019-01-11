@@ -27,6 +27,6 @@ Changes can be done to data_processing.py, if you need to modify the system.
 [Seq2Seq Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
 ### Acknowledgements
-we borrow some of the code from following sources
+we borrow code from following sources
 1. Sean Robertson’s practical-pytorch seq2seq-translation example: https://github.com/spro/practical-pytorch/tree/master/seq2seq-translation
 2. FloydHub’s Cornell Movie Corpus preprocessing code: https://github.com/floydhub/textutil-preprocess-cornell-movie-corpus
