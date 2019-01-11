@@ -14,7 +14,9 @@ Download data from [Cornell Movie dataset](https://www.cs.cornell.edu/~cristian/
 
 Make sure that to put the data files in ../save/
 
-Run Train.py or Test.py
+Training python3 train.py
+
+testing python3 Test.py
 
 data_processing.py can be modified for dir setting.  
 
