@@ -15,7 +15,7 @@ Make sure that to put the data files in ../save/
 
 Run Train.py or Test.py
 
-Changes can be done to data_processing.py, if you need to modify the system. 
+data_processing.py can be modified for dir setting.  
 
 
 ## References
@@ -25,6 +25,16 @@ Changes can be done to data_processing.py, if you need to modify the system.
 [Attention Neural Machine](https://arxiv.org/abs/1508.04025)
 
 [Seq2Seq Translation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+
+[Neural Conversational Model](https://arxiv.org/abs/1506.05869)
+
+[GANs](https://arxiv.org/abs/1406.2661)
+
+
+[Bahdanau et al., 2014](https://arxiv.org/abs/1409.0473)
+
+[Attention-based Neural Machine](https://arxiv.org/abs/1508.04025)
+
 
 ### Acknowledgements
 we borrow code from following sources
