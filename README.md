@@ -2,8 +2,9 @@
 Chatbot for Fun using Seq2Seq model. 
 
 
-# what we need? 
-Python 3.XX
+### Requirement
+Python 3.xx
+
 Pytorch 
 
 ### This system can be run using Test.py
