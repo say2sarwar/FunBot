@@ -39,6 +39,7 @@ data_processing.py can be modified for dir setting.
 [Bahdanau et al., 2014](https://arxiv.org/abs/1409.0473)
 
 [Attention-based Neural Machine](https://arxiv.org/abs/1508.04025)
+[Text Detection and Recognition on traffic panel in roadside imagery](https://ieeexplore.ieee.org/abstract/document/7958768)
 
 
 ### Acknowledgements
